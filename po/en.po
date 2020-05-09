@@ -262,7 +262,7 @@ msgid "Use pig herds independently (without T&B expansion)"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:20
-msgid "Princess MUST remove a knight from city."
+msgid "Princess MUST remove a knight from cities."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:21
@@ -270,7 +270,7 @@ msgid "Dragon movement occurs after scoring."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:22
-msgid "Place fairy on the tile. (instead of next to a follower)"
+msgid "Place fairy on the tile (instead of next to a follower)."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:24
@@ -299,11 +299,11 @@ msgid "Apply tunnel rule on tunnels from other expansions."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:35
-msgid "Assign 3/2 tunnel set in game of two/three players."
+msgid "Assign 3/2 tunnel set in games of two/three players."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:37
-msgid "Only follower can be returned by festival (instead of any figure)"
+msgid "Only followers can be returned by festival (instead of any figure)."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/game/Rule.java:39
@@ -331,7 +331,7 @@ msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/Client.java:298
 msgid ""
-"The game is not finished. Do you really want to stop game and disconnect all "
+"The game is not finished. Do you really want to stop the game and disconnect all "
 "other players?"
 msgstr ""
 
@@ -365,8 +365,8 @@ msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/ClientMessageListener.java:468
 msgid ""
-"Remote JCloisterZone is not compatible with local application. Please "
-"upgrade both applications to same version."
+"Remote JCloisterZone is not compatible with your local application. Please "
+"upgrade both applications to the same version."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/ClientMessageListener.java:470
@@ -468,7 +468,7 @@ msgid "Language"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/dialog/PreferencesDialog.java:205
-msgid "To apply new language you must restart the application"
+msgid "To change languages you must restart the application"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/dialog/PreferencesDialog.java:211
@@ -476,7 +476,7 @@ msgid "Theme"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/dialog/PreferencesDialog.java:227
-msgid "To apply new theme you must restart the application"
+msgid "To change themes you must restart the application"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/dialog/PreferencesDialog.java:233
@@ -523,7 +523,7 @@ msgid "Choose your tile."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/BazaarPanel.java:275
-msgid "<html>Choose tile for next auction<br>and make initial offer.</html>"
+msgid "<html>Choose a tile for next auction<br>and make initial offer.</html>"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/BazaarPanel.java:280
@@ -568,11 +568,11 @@ msgid "Each player…"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/CornCirclesPanel.java:47
-msgid "may deploy additional follower"
+msgid "may deploy an additional follower"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/CornCirclesPanel.java:60
-msgid "must remove follower"
+msgid "must remove a follower"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/CornCirclesPanel.java:78
@@ -589,7 +589,7 @@ msgid "Farm with shepherd was expanded."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/FlockPanel.java:86
-msgid "You can draw another sheep/wolf token from a bag."
+msgid "You can draw another sheep/wolf token from the bag."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/FlockPanel.java:90
@@ -626,8 +626,8 @@ msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/SelectMageWitchRemovalPanel.java:41
 msgid ""
-"It''s not possible to place mage or witch because there isn''t an unfinished "
-"feature. Select what figure do you want to remove from board."
+"It''s not possible to place the mage or the witch because there isn''t an unfinished "
+"feature. Select which figure you want to remove from the board."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/actionpanel/SelectMageWitchRemovalPanel.java:48
@@ -648,7 +648,7 @@ msgid "Place as monk"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/layer/FeatureAreaLayer.java:126
-msgid "How do you want to place follower on monastery?"
+msgid "How do you want to place your follower on the monastery?"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/grid/layer/FeatureAreaLayer.java:127
@@ -1006,27 +1006,26 @@ msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/HelpPanel.java:18
 msgid ""
-"<html>Use <b>A</b>, <b>S</b>, <b>W</b>, <b>D</b> or <b>cursor</b> keys to "
-"scroll the board. Click with <b>middle</b> mouse button to center the board. "
-"Zoom with <b>+</b> or <b>-</b> keys or use mouse <b>wheel</b>.</html>"
+"<html>Use <b>W</b>, <b>A</b>, <b>S</b>, <b>D</b> or <b>arrow</b> keys to "
+"scroll around the board. Click <b>middle</b> mouse to center the board. "
+"Zoom with <b>+</b> or <b>-</b> keys or use the mouse <b>wheel</b>.</html>"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/HelpPanel.java:23
 msgid ""
-"<html>Rotate a tile by <b>Tab</b> key or <b>right</b> mouse click. Place it "
-"by <b>left</b> click.</html>"
+"<html>Rotate a tile with <b>Tab</b> or <b>right</b> mouse click. Place it "
+"with <b>left</b> click.</html>"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/HelpPanel.java:26
 msgid ""
-"<html>When tile is placed use <b>Tab</b> or <b>right</b> click again to "
-"select appropriate action.</html>"
+"<html>When a tile is placed use <b>Tab</b> or <b>right</b> click again to "
+"select an appropriate action.</html>"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/HelpPanel.java:30
 msgid ""
-"<html>Alternativelly you can pass with <b>Enter</b> or <b>Space</b> to play "
-"no action.</html>"
+"<html>Alternatively you can pass your turn with <b>Enter</b> or <b>Space</b>.</html>"
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/HelpPanel.java:33
@@ -1039,7 +1038,7 @@ msgstr ""
 msgid ""
 "Create a new game or continue a previously saved one. A game will be hosted "
 "on your computer and other players may connect during game set up. You can "
-"also play only against any number of computer players."
+"also play against any number of only computer players."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/StartPanel.java:82
@@ -1048,8 +1047,8 @@ msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/StartPanel.java:95
 msgid ""
-"You can also connect to remote JCloisterZone application hosting a game. "
-"Connect when game is created but not yet started."
+"You can also connect to a remote JCloisterZone application hosting a game. "
+"Connect when a game is created but not yet started."
 msgstr ""
 
 #: src/main/java/com/jcloisterzone/ui/panel/StartPanel.java:116
